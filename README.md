@@ -14,7 +14,7 @@ MovieFlix is a React Native app (built with Expo) for exploring and discovering 
 - Appwrite for authentication and database.
 - TMDb API for movie data.
 
-#🎯Key Feature Highlight
+# 🎯Key Feature Highlight
 - ⭐ Smart Recommendations.
 - The app tracks search terms from users and surfaces top movies people are looking for.
 - Get suggestions based on trending searches in real-time.
