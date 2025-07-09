@@ -1,3 +1,13 @@
+# - Home Page
+![Home Page](https://github.com/user-attachments/assets/8fec2dff-de18-4124-9a88-d927b48c9c01)
+
+# - Search Page.
+![Search Page](https://github.com/user-attachments/assets/9f7c19cc-6064-45ed-b5b4-9487ffa41c92)
+
+# - Details Page
+![Details Page](https://github.com/user-attachments/assets/b6d4ead1-f018-43d3-868e-d7eb75871f4d)
+
+
 # 🎬 MovieFlix
 MovieFlix is a React Native app (built with Expo) for exploring and discovering movies. Search for any movie, view details, and get personalized recommendations based on what users are searching for.
 
